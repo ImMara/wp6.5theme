@@ -1,2 +1,5 @@
 # Project exclude paths
 /blocks/dist/
+/blocks/node_modules
+
+/blocks/package-lock.json
